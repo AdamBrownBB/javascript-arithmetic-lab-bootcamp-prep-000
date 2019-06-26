@@ -19,13 +19,13 @@ var result = (a / b)
 }
 
 function inc (n) {
-   var result = n++
+   var result = n++;
   
   return n;
 }
 
 function dec (n) {
-   var result = n--
+   var result = n--;
   
   return n;
 }
