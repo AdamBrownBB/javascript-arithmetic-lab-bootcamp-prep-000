@@ -13,7 +13,7 @@ var result = (a * b)
   return result;
 }
 
-function add (a, b) {
+function divide (a, b) {
 var result = (a / b)
   return result;
 }
