@@ -1,5 +1,4 @@
-function add = (a, b) {
-  result = (a + b)
-  
+function add = (a + b) {
+
   return result;
 }
