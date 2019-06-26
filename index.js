@@ -32,7 +32,7 @@ function dec (n) {
 
 
 function makeInt (n, base) {
-  parseInt('n', 10)
+  var parsed = parseInt('n', 10)
   return n;
 }
 
