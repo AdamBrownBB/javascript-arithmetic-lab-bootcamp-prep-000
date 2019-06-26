@@ -18,8 +18,8 @@ var result = (a / b)
   return result;
 }
 
-function inc (n) {
-   result = n+=
+function inc (n+=) {
+   result = n
   
   return result;
 }
