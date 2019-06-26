@@ -20,5 +20,7 @@ var result = (a / b)
 
 function inc(n) {
   var result = n+=
+  
+  return result;
 }
 
