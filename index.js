@@ -31,7 +31,9 @@ function dec (n) {
 }
 
 
-function 
+function makeInt(n) {
+  parseInt
+}
 
 
 
