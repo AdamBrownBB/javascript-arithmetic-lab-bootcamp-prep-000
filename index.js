@@ -19,8 +19,8 @@ var result = (a / b)
 }
 
 function inc (n) {
-   var result = n
+   var n = n+=
   
-  return result;
+  return n;
 }
 
